@@ -1,7 +1,7 @@
 # LAPSv2 Decryptor
 ## Usage
 ```python
-python lapsv2_decryptor.py 'CN=DC01,OU=LAPSManaged,DC=domain,DC=alt' 'dc01.domain.alt'
+python3 lapsv2_decryptor.py 'CN=DC01,OU=LAPSManaged,DC=domain,DC=alt' 'dc01.domain.alt'
 ```
 
 ## Attribution 
